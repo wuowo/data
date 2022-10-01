@@ -1,0 +1,7309 @@
+[{
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "139"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "11"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "15"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "12"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "屏東縣",
+        "Visits": "1",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "10"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "31"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "39"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "20"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "13"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "19"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "17"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "6814"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "10235"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "348"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "2954"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "881"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "842"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "55"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "239"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "885"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "547"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "3121"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "5150"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "297"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "1208"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "4115"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "1254"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "1119"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "692"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "365"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "2499"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "26"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台中市",
+        "Visits": "1",
+        "total": "62"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "66"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "12"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "24"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "16"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "15"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "31"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "20"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "29"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "19"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "彰化縣",
+        "Visits": "1",
+        "total": "32"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台中市",
+        "Visits": "1",
+        "total": "95"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "140"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "24"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "21"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "12"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "屏東縣",
+        "Visits": "1",
+        "total": "23"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "16"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "32"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "44"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "48"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "24"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "彰化縣",
+        "Visits": "1",
+        "total": "29"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台中市",
+        "Visits": "18",
+        "total": "18567"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台北市",
+        "Visits": "7",
+        "total": "9641"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台東縣",
+        "Visits": "4",
+        "total": "523"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台南市",
+        "Visits": "12",
+        "total": "9090"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "宜蘭縣",
+        "Visits": "5",
+        "total": "2484"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "1307"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "328"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "南投縣",
+        "Visits": "7",
+        "total": "2263"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "屏東縣",
+        "Visits": "1",
+        "total": "2736"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "2293"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "桃園市",
+        "Visits": "15",
+        "total": "13447"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "高雄市",
+        "Visits": "15",
+        "total": "11190"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "基隆市",
+        "Visits": "3",
+        "total": "1270"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "28"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "雲林縣",
+        "Visits": "2",
+        "total": "2740"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新北市",
+        "Visits": "27",
+        "total": "19250"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新竹市",
+        "Visits": "5",
+        "total": "3881"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新竹縣",
+        "Visits": "5",
+        "total": "3920"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "1601"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "嘉義縣",
+        "Visits": "3",
+        "total": "1126"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "彰化縣",
+        "Visits": "17",
+        "total": "6954"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "0-2",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "323"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台中市",
+        "Visits": "5",
+        "total": "19482"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台北市",
+        "Visits": "7",
+        "total": "13688"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "767"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台南市",
+        "Visits": "1",
+        "total": "10043"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "宜蘭縣",
+        "Visits": "4",
+        "total": "2373"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "1415"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "492"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "南投縣",
+        "Visits": "2",
+        "total": "2502"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "3169"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "2292"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "桃園市",
+        "Visits": "3",
+        "total": "13820"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "高雄市",
+        "Visits": "3",
+        "total": "14595"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "1440"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "44"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "3205"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新北市",
+        "Visits": "7",
+        "total": "23789"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "3811"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新竹縣",
+        "Visits": "1",
+        "total": "3933"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "嘉義市",
+        "Visits": "2",
+        "total": "2296"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "嘉義縣",
+        "Visits": "1",
+        "total": "1666"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "彰化縣",
+        "Visits": "5",
+        "total": "7017"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "10-14",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "558"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "台中市",
+        "Visits": "38",
+        "total": "581027"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "台北市",
+        "Visits": "14",
+        "total": "587814"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "32678"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "台南市",
+        "Visits": "8",
+        "total": "378502"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "宜蘭縣",
+        "Visits": "15",
+        "total": "82219"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "60115"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "14157"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "南投縣",
+        "Visits": "2",
+        "total": "81991"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "屏東縣",
+        "Visits": "6",
+        "total": "134030"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "苗栗縣",
+        "Visits": "4",
+        "total": "76053"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "桃園市",
+        "Visits": "10",
+        "total": "371679"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "高雄市",
+        "Visits": "22",
+        "total": "580284"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "基隆市",
+        "Visits": "1",
+        "total": "64731"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "1357"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "116233"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "新北市",
+        "Visits": "16",
+        "total": "665456"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "新竹市",
+        "Visits": "2",
+        "total": "93899"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "新竹縣",
+        "Visits": "2",
+        "total": "84500"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "81245"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "嘉義縣",
+        "Visits": "9",
+        "total": "72923"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "彰化縣",
+        "Visits": "3",
+        "total": "215556"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "15+",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "25081"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台中市",
+        "Visits": "15",
+        "total": "17969"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台北市",
+        "Visits": "6",
+        "total": "8692"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "496"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台南市",
+        "Visits": "2",
+        "total": "8651"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "宜蘭縣",
+        "Visits": "1",
+        "total": "2490"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "1418"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "288"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "南投縣",
+        "Visits": "3",
+        "total": "2136"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "屏東縣",
+        "Visits": "2",
+        "total": "2328"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "苗栗縣",
+        "Visits": "2",
+        "total": "2503"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "桃園市",
+        "Visits": "16",
+        "total": "13706"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "高雄市",
+        "Visits": "5",
+        "total": "11099"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "1278"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "13"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "雲林縣",
+        "Visits": "7",
+        "total": "2729"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新北市",
+        "Visits": "20",
+        "total": "18947"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新竹市",
+        "Visits": "2",
+        "total": "3495"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新竹縣",
+        "Visits": "2",
+        "total": "3751"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "嘉義市",
+        "Visits": "1",
+        "total": "1634"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "1237"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "彰化縣",
+        "Visits": "9",
+        "total": "6585"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "3-4",
+        "County": "澎湖縣",
+        "Visits": "1",
+        "total": "264"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台中市",
+        "Visits": "23",
+        "total": "32979"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台北市",
+        "Visits": "12",
+        "total": "18602"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "912"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台南市",
+        "Visits": "6",
+        "total": "15783"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "宜蘭縣",
+        "Visits": "1",
+        "total": "3730"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "花蓮縣",
+        "Visits": "1",
+        "total": "2228"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "金門縣",
+        "Visits": "1",
+        "total": "621"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "南投縣",
+        "Visits": "2",
+        "total": "3956"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "屏東縣",
+        "Visits": "3",
+        "total": "4755"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "苗栗縣",
+        "Visits": "2",
+        "total": "3959"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "桃園市",
+        "Visits": "8",
+        "total": "23573"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "高雄市",
+        "Visits": "13",
+        "total": "22307"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "基隆市",
+        "Visits": "2",
+        "total": "2262"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "43"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "雲林縣",
+        "Visits": "2",
+        "total": "4497"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新北市",
+        "Visits": "9",
+        "total": "36992"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新竹市",
+        "Visits": "1",
+        "total": "6431"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新竹縣",
+        "Visits": "3",
+        "total": "6591"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "嘉義市",
+        "Visits": "3",
+        "total": "3169"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "2364"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "彰化縣",
+        "Visits": "10",
+        "total": "11334"
+    },
+    {
+        "year": "2022",
+        "week": "35",
+        "type": "門診",
+        "age": "5-9",
+        "County": "澎湖縣",
+        "Visits": "2",
+        "total": "631"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "131"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "133"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台南市",
+        "Visits": "1",
+        "total": "31"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "50"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "12"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "28"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "19"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "78"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "47"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "102"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "41"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "34"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "彰化縣",
+        "Visits": "1",
+        "total": "75"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "39"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "87"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "14"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "6"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "22"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "40"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "18"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "15"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "19"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "6193"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "9159"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "367"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "2460"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "717"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "699"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "65"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "242"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "758"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "533"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "2822"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "4618"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "283"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "1122"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "3868"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "1149"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "1020"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "661"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "239"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "2466"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "27"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "51"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "59"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "12"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "17"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "11"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "21"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "26"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "15"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "33"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "18"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "10"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "24"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "82"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "128"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "20"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "19"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "17"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "15"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "38"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "36"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "29"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "28"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "35"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台中市",
+        "Visits": "15",
+        "total": "18648"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台北市",
+        "Visits": "7",
+        "total": "9760"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台東縣",
+        "Visits": "3",
+        "total": "675"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台南市",
+        "Visits": "9",
+        "total": "9660"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "宜蘭縣",
+        "Visits": "2",
+        "total": "2612"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "1605"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "344"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "南投縣",
+        "Visits": "2",
+        "total": "2222"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "2953"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "苗栗縣",
+        "Visits": "7",
+        "total": "2552"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "桃園市",
+        "Visits": "10",
+        "total": "13700"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "高雄市",
+        "Visits": "19",
+        "total": "12673"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "基隆市",
+        "Visits": "2",
+        "total": "1236"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "25"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "雲林縣",
+        "Visits": "5",
+        "total": "2764"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新北市",
+        "Visits": "24",
+        "total": "19627"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新竹市",
+        "Visits": "3",
+        "total": "3976"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新竹縣",
+        "Visits": "4",
+        "total": "3971"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "嘉義市",
+        "Visits": "2",
+        "total": "1899"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "嘉義縣",
+        "Visits": "4",
+        "total": "1229"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "彰化縣",
+        "Visits": "8",
+        "total": "6871"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "0-2",
+        "County": "澎湖縣",
+        "Visits": "1",
+        "total": "333"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台中市",
+        "Visits": "3",
+        "total": "19469"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台北市",
+        "Visits": "3",
+        "total": "12193"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "722"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "10755"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "宜蘭縣",
+        "Visits": "1",
+        "total": "2825"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "1518"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "508"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "南投縣",
+        "Visits": "1",
+        "total": "2566"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "3229"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "2574"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "桃園市",
+        "Visits": "1",
+        "total": "13257"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "高雄市",
+        "Visits": "4",
+        "total": "14033"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "1613"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "46"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "3301"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新北市",
+        "Visits": "2",
+        "total": "22556"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "3929"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "3903"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2394"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "嘉義縣",
+        "Visits": "3",
+        "total": "1820"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "彰化縣",
+        "Visits": "3",
+        "total": "6939"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "10-14",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "519"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "台中市",
+        "Visits": "29",
+        "total": "548756"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "台北市",
+        "Visits": "6",
+        "total": "527340"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "29959"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "台南市",
+        "Visits": "14",
+        "total": "340233"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "宜蘭縣",
+        "Visits": "12",
+        "total": "78187"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "花蓮縣",
+        "Visits": "1",
+        "total": "57702"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "12795"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "南投縣",
+        "Visits": "1",
+        "total": "75559"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "屏東縣",
+        "Visits": "4",
+        "total": "123911"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "76802"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "桃園市",
+        "Visits": "5",
+        "total": "354137"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "高雄市",
+        "Visits": "18",
+        "total": "544921"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "基隆市",
+        "Visits": "4",
+        "total": "62957"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "1100"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "109585"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "新北市",
+        "Visits": "11",
+        "total": "640054"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "新竹市",
+        "Visits": "1",
+        "total": "88630"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "81377"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "嘉義市",
+        "Visits": "4",
+        "total": "77265"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "嘉義縣",
+        "Visits": "4",
+        "total": "69122"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "彰化縣",
+        "Visits": "3",
+        "total": "206020"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "15+",
+        "County": "澎湖縣",
+        "Visits": "1",
+        "total": "25017"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台中市",
+        "Visits": "15",
+        "total": "18638"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台北市",
+        "Visits": "2",
+        "total": "9514"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台東縣",
+        "Visits": "4",
+        "total": "608"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台南市",
+        "Visits": "6",
+        "total": "9645"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "宜蘭縣",
+        "Visits": "4",
+        "total": "2575"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "花蓮縣",
+        "Visits": "1",
+        "total": "1608"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "379"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "南投縣",
+        "Visits": "2",
+        "total": "2314"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "屏東縣",
+        "Visits": "3",
+        "total": "3080"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "2817"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "桃園市",
+        "Visits": "5",
+        "total": "14447"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "高雄市",
+        "Visits": "3",
+        "total": "13824"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "1299"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "15"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "雲林縣",
+        "Visits": "1",
+        "total": "3099"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新北市",
+        "Visits": "14",
+        "total": "20941"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新竹市",
+        "Visits": "1",
+        "total": "3481"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "3810"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "嘉義市",
+        "Visits": "2",
+        "total": "1965"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "嘉義縣",
+        "Visits": "4",
+        "total": "1213"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "彰化縣",
+        "Visits": "6",
+        "total": "6457"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "3-4",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "393"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台中市",
+        "Visits": "20",
+        "total": "31569"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台北市",
+        "Visits": "10",
+        "total": "18118"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台東縣",
+        "Visits": "1",
+        "total": "1134"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台南市",
+        "Visits": "3",
+        "total": "16463"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "4371"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "花蓮縣",
+        "Visits": "2",
+        "total": "2395"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "金門縣",
+        "Visits": "2",
+        "total": "738"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "南投縣",
+        "Visits": "3",
+        "total": "3860"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "屏東縣",
+        "Visits": "2",
+        "total": "5058"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "苗栗縣",
+        "Visits": "1",
+        "total": "4430"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "桃園市",
+        "Visits": "9",
+        "total": "23257"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "高雄市",
+        "Visits": "11",
+        "total": "24347"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "基隆市",
+        "Visits": "4",
+        "total": "2399"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "29"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "雲林縣",
+        "Visits": "3",
+        "total": "4703"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新北市",
+        "Visits": "8",
+        "total": "37236"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新竹市",
+        "Visits": "3",
+        "total": "6577"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新竹縣",
+        "Visits": "2",
+        "total": "6669"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "嘉義市",
+        "Visits": "1",
+        "total": "3301"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "嘉義縣",
+        "Visits": "3",
+        "total": "2294"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "彰化縣",
+        "Visits": "3",
+        "total": "11299"
+    },
+    {
+        "year": "2022",
+        "week": "36",
+        "type": "門診",
+        "age": "5-9",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "687"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台中市",
+        "Visits": "3",
+        "total": "167"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "150"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台東縣",
+        "Visits": "1",
+        "total": "11"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "39"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "42"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "花蓮縣",
+        "Visits": "1",
+        "total": "16"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "35"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "30"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "87"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "61"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新北市",
+        "Visits": "1",
+        "total": "98"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "57"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "38"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "71"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "79"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "158"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "14"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "12"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "6"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "11"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "19"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "41"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "50"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "32"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "11"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "24"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台中市",
+        "Visits": "1",
+        "total": "6812"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "11116"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "386"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "3189"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "932"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "885"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "71"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "237"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "920"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "598"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "3324"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "高雄市",
+        "Visits": "1",
+        "total": "5429"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "334"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "1326"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "4166"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "1183"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "1239"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "726"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "412"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "2709"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "31"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "61"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "88"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "16"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "16"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "18"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "30"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "25"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "32"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "17"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "18"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "96"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "162"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "16"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "11"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "21"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "21"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "35"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "52"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "47"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "22"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "6"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "35"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台中市",
+        "Visits": "26",
+        "total": "20448"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台北市",
+        "Visits": "6",
+        "total": "11263"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台東縣",
+        "Visits": "4",
+        "total": "794"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台南市",
+        "Visits": "6",
+        "total": "11021"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "宜蘭縣",
+        "Visits": "1",
+        "total": "2810"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "花蓮縣",
+        "Visits": "1",
+        "total": "1768"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "金門縣",
+        "Visits": "1",
+        "total": "478"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "南投縣",
+        "Visits": "3",
+        "total": "2782"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "屏東縣",
+        "Visits": "2",
+        "total": "3970"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "苗栗縣",
+        "Visits": "2",
+        "total": "2739"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "桃園市",
+        "Visits": "15",
+        "total": "15326"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "高雄市",
+        "Visits": "21",
+        "total": "15653"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "基隆市",
+        "Visits": "4",
+        "total": "1560"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "25"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "雲林縣",
+        "Visits": "3",
+        "total": "3447"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新北市",
+        "Visits": "23",
+        "total": "22330"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新竹市",
+        "Visits": "1",
+        "total": "4276"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新竹縣",
+        "Visits": "3",
+        "total": "4400"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "嘉義市",
+        "Visits": "2",
+        "total": "2177"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "嘉義縣",
+        "Visits": "4",
+        "total": "1389"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "彰化縣",
+        "Visits": "9",
+        "total": "7859"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "0-2",
+        "County": "澎湖縣",
+        "Visits": "1",
+        "total": "447"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台中市",
+        "Visits": "3",
+        "total": "27720"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台北市",
+        "Visits": "5",
+        "total": "17619"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台東縣",
+        "Visits": "1",
+        "total": "1039"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台南市",
+        "Visits": "2",
+        "total": "15962"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "宜蘭縣",
+        "Visits": "1",
+        "total": "3837"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "2030"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "806"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "3833"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "屏東縣",
+        "Visits": "3",
+        "total": "5108"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "3364"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "桃園市",
+        "Visits": "3",
+        "total": "18538"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "高雄市",
+        "Visits": "5",
+        "total": "21922"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "基隆市",
+        "Visits": "2",
+        "total": "2541"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "45"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "雲林縣",
+        "Visits": "1",
+        "total": "5017"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "30568"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "4853"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新竹縣",
+        "Visits": "2",
+        "total": "5440"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "3430"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "嘉義縣",
+        "Visits": "5",
+        "total": "2698"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "彰化縣",
+        "Visits": "2",
+        "total": "10490"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "10-14",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "758"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "台中市",
+        "Visits": "34",
+        "total": "627692"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "台北市",
+        "Visits": "14",
+        "total": "614064"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "33821"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "台南市",
+        "Visits": "9",
+        "total": "397885"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "宜蘭縣",
+        "Visits": "7",
+        "total": "87835"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "62986"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "15064"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "南投縣",
+        "Visits": "4",
+        "total": "89033"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "屏東縣",
+        "Visits": "2",
+        "total": "145575"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "苗栗縣",
+        "Visits": "4",
+        "total": "82904"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "桃園市",
+        "Visits": "5",
+        "total": "401462"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "高雄市",
+        "Visits": "14",
+        "total": "634701"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "基隆市",
+        "Visits": "2",
+        "total": "72629"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "1357"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "122188"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "新北市",
+        "Visits": "15",
+        "total": "718001"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "101848"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "新竹縣",
+        "Visits": "1",
+        "total": "91175"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "嘉義市",
+        "Visits": "3",
+        "total": "85107"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "嘉義縣",
+        "Visits": "5",
+        "total": "76956"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "彰化縣",
+        "Visits": "3",
+        "total": "233064"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "15+",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "24993"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台中市",
+        "Visits": "17",
+        "total": "20176"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台北市",
+        "Visits": "6",
+        "total": "9738"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台東縣",
+        "Visits": "3",
+        "total": "789"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台南市",
+        "Visits": "4",
+        "total": "10716"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "2408"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "花蓮縣",
+        "Visits": "1",
+        "total": "1607"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "449"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "南投縣",
+        "Visits": "8",
+        "total": "2662"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "屏東縣",
+        "Visits": "2",
+        "total": "4106"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "2756"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "桃園市",
+        "Visits": "7",
+        "total": "15117"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "高雄市",
+        "Visits": "3",
+        "total": "15393"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "基隆市",
+        "Visits": "1",
+        "total": "1451"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "24"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "雲林縣",
+        "Visits": "2",
+        "total": "3555"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新北市",
+        "Visits": "8",
+        "total": "21497"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新竹市",
+        "Visits": "1",
+        "total": "3539"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新竹縣",
+        "Visits": "1",
+        "total": "3904"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2144"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "1404"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "彰化縣",
+        "Visits": "8",
+        "total": "6900"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "3-4",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "382"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台中市",
+        "Visits": "20",
+        "total": "37583"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台北市",
+        "Visits": "5",
+        "total": "22000"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台東縣",
+        "Visits": "5",
+        "total": "1475"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台南市",
+        "Visits": "4",
+        "total": "21115"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "宜蘭縣",
+        "Visits": "2",
+        "total": "5039"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "花蓮縣",
+        "Visits": "1",
+        "total": "2691"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "金門縣",
+        "Visits": "1",
+        "total": "982"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "南投縣",
+        "Visits": "4",
+        "total": "5179"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "屏東縣",
+        "Visits": "5",
+        "total": "7230"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "苗栗縣",
+        "Visits": "3",
+        "total": "5286"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "桃園市",
+        "Visits": "8",
+        "total": "26794"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "高雄市",
+        "Visits": "3",
+        "total": "32341"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "基隆市",
+        "Visits": "3",
+        "total": "3074"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "48"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "雲林縣",
+        "Visits": "3",
+        "total": "6371"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新北市",
+        "Visits": "16",
+        "total": "41426"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新竹市",
+        "Visits": "9",
+        "total": "7306"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "8023"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "4267"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "嘉義縣",
+        "Visits": "3",
+        "total": "2879"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "彰化縣",
+        "Visits": "7",
+        "total": "13553"
+    },
+    {
+        "year": "2022",
+        "week": "37",
+        "type": "門診",
+        "age": "5-9",
+        "County": "澎湖縣",
+        "Visits": "1",
+        "total": "855"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台中市",
+        "Visits": "1",
+        "total": "170"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台北市",
+        "Visits": "1",
+        "total": "173"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "10"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "42"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "39"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "9"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "20"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "32"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "24"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "95"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "56"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "8"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "14"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "131"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "52"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "36"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "0-2",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "79"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "95"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台北市",
+        "Visits": "1",
+        "total": "136"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "18"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "宜蘭縣",
+        "Visits": "1",
+        "total": "12"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "10"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "15"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "31"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "38"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "37"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "10"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "10-14",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "25"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "6955"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "10813"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "391"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "2875"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "869"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "889"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "67"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "219"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "940"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "556"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "3407"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "5149"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "395"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "1225"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "3950"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "1230"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "1209"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "707"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "404"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "2408"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "15+",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "46"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台中市",
+        "Visits": "1",
+        "total": "80"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台北市",
+        "Visits": "1",
+        "total": "82"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "13"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "23"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "4"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "13"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "13"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "46"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "27"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "10"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新北市",
+        "Visits": "2",
+        "total": "37"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "16"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "12"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "3-4",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "34"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台中市",
+        "Visits": "0",
+        "total": "90"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台北市",
+        "Visits": "0",
+        "total": "159"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "台南市",
+        "Visits": "0",
+        "total": "15"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "宜蘭縣",
+        "Visits": "0",
+        "total": "16"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "5"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "屏東縣",
+        "Visits": "0",
+        "total": "18"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "23"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "桃園市",
+        "Visits": "0",
+        "total": "42"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "高雄市",
+        "Visits": "0",
+        "total": "49"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "10"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "雲林縣",
+        "Visits": "0",
+        "total": "3"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新北市",
+        "Visits": "0",
+        "total": "26"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "27"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "7"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "1"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "hospitalized",
+        "age": "5-9",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "27"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台中市",
+        "Visits": "49",
+        "total": "21137"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台北市",
+        "Visits": "9",
+        "total": "12004"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台東縣",
+        "Visits": "5",
+        "total": "823"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "台南市",
+        "Visits": "6",
+        "total": "10269"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "宜蘭縣",
+        "Visits": "5",
+        "total": "2660"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "花蓮縣",
+        "Visits": "2",
+        "total": "1693"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "金門縣",
+        "Visits": "3",
+        "total": "398"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "南投縣",
+        "Visits": "10",
+        "total": "2666"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "屏東縣",
+        "Visits": "4",
+        "total": "3984"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "苗栗縣",
+        "Visits": "1",
+        "total": "2659"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "桃園市",
+        "Visits": "19",
+        "total": "16195"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "高雄市",
+        "Visits": "16",
+        "total": "14557"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "基隆市",
+        "Visits": "5",
+        "total": "1404"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "30"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "雲林縣",
+        "Visits": "4",
+        "total": "3581"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新北市",
+        "Visits": "34",
+        "total": "24166"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "4208"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "新竹縣",
+        "Visits": "2",
+        "total": "4577"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "嘉義市",
+        "Visits": "6",
+        "total": "2083"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "嘉義縣",
+        "Visits": "5",
+        "total": "1480"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "彰化縣",
+        "Visits": "11",
+        "total": "7671"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "0-2",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "478"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台中市",
+        "Visits": "8",
+        "total": "29631"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台北市",
+        "Visits": "2",
+        "total": "19315"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台東縣",
+        "Visits": "2",
+        "total": "1068"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "台南市",
+        "Visits": "3",
+        "total": "16691"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "宜蘭縣",
+        "Visits": "4",
+        "total": "4181"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "2056"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "762"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "南投縣",
+        "Visits": "0",
+        "total": "3713"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "屏東縣",
+        "Visits": "5",
+        "total": "5790"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "苗栗縣",
+        "Visits": "1",
+        "total": "3705"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "桃園市",
+        "Visits": "2",
+        "total": "20841"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "高雄市",
+        "Visits": "2",
+        "total": "24536"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "基隆市",
+        "Visits": "1",
+        "total": "2838"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "51"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "雲林縣",
+        "Visits": "1",
+        "total": "5752"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新北市",
+        "Visits": "3",
+        "total": "33596"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新竹市",
+        "Visits": "0",
+        "total": "5314"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "5918"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "3562"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "嘉義縣",
+        "Visits": "2",
+        "total": "2780"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "彰化縣",
+        "Visits": "0",
+        "total": "11429"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "10-14",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "881"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "台中市",
+        "Visits": "50",
+        "total": "606990"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "台北市",
+        "Visits": "5",
+        "total": "595192"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "台東縣",
+        "Visits": "1",
+        "total": "32070"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "台南市",
+        "Visits": "5",
+        "total": "375635"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "宜蘭縣",
+        "Visits": "9",
+        "total": "86654"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "花蓮縣",
+        "Visits": "1",
+        "total": "58740"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "13881"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "南投縣",
+        "Visits": "4",
+        "total": "84503"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "屏東縣",
+        "Visits": "3",
+        "total": "137954"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "81049"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "桃園市",
+        "Visits": "10",
+        "total": "394379"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "高雄市",
+        "Visits": "12",
+        "total": "605621"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "基隆市",
+        "Visits": "1",
+        "total": "70798"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "1252"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "雲林縣",
+        "Visits": "1",
+        "total": "118353"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "新北市",
+        "Visits": "15",
+        "total": "710770"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "新竹市",
+        "Visits": "2",
+        "total": "98088"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "新竹縣",
+        "Visits": "0",
+        "total": "91520"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "嘉義市",
+        "Visits": "3",
+        "total": "80974"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "嘉義縣",
+        "Visits": "5",
+        "total": "74292"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "彰化縣",
+        "Visits": "4",
+        "total": "223205"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "15+",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "25104"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台中市",
+        "Visits": "32",
+        "total": "21004"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台北市",
+        "Visits": "1",
+        "total": "10478"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台東縣",
+        "Visits": "0",
+        "total": "789"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "台南市",
+        "Visits": "5",
+        "total": "10274"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "宜蘭縣",
+        "Visits": "3",
+        "total": "2451"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "1529"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "344"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "南投縣",
+        "Visits": "8",
+        "total": "2659"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "屏東縣",
+        "Visits": "1",
+        "total": "3827"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "苗栗縣",
+        "Visits": "0",
+        "total": "2834"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "桃園市",
+        "Visits": "10",
+        "total": "17026"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "高雄市",
+        "Visits": "9",
+        "total": "14240"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "1502"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "28"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "雲林縣",
+        "Visits": "3",
+        "total": "3511"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新北市",
+        "Visits": "17",
+        "total": "24261"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新竹市",
+        "Visits": "1",
+        "total": "3789"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "新竹縣",
+        "Visits": "2",
+        "total": "4240"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "2163"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "嘉義縣",
+        "Visits": "0",
+        "total": "1536"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "彰化縣",
+        "Visits": "7",
+        "total": "7242"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "3-4",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "454"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台中市",
+        "Visits": "20",
+        "total": "36748"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台北市",
+        "Visits": "6",
+        "total": "23063"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台東縣",
+        "Visits": "1",
+        "total": "1464"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "台南市",
+        "Visits": "2",
+        "total": "20483"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "宜蘭縣",
+        "Visits": "2",
+        "total": "4796"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "花蓮縣",
+        "Visits": "0",
+        "total": "2713"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "金門縣",
+        "Visits": "0",
+        "total": "940"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "南投縣",
+        "Visits": "1",
+        "total": "4664"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "屏東縣",
+        "Visits": "4",
+        "total": "7428"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "苗栗縣",
+        "Visits": "1",
+        "total": "5077"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "桃園市",
+        "Visits": "13",
+        "total": "28782"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "高雄市",
+        "Visits": "9",
+        "total": "32089"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "基隆市",
+        "Visits": "0",
+        "total": "3223"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "連江縣",
+        "Visits": "0",
+        "total": "49"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "雲林縣",
+        "Visits": "3",
+        "total": "6709"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新北市",
+        "Visits": "12",
+        "total": "44228"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新竹市",
+        "Visits": "2",
+        "total": "7637"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "新竹縣",
+        "Visits": "3",
+        "total": "8596"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "嘉義市",
+        "Visits": "0",
+        "total": "4396"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "嘉義縣",
+        "Visits": "1",
+        "total": "2998"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "彰化縣",
+        "Visits": "8",
+        "total": "13642"
+    },
+    {
+        "year": "2022",
+        "week": "38",
+        "type": "門診",
+        "age": "5-9",
+        "County": "澎湖縣",
+        "Visits": "0",
+        "total": "1030"
+    }
+]
